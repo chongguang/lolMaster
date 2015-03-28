@@ -1,0 +1,128 @@
+   {
+      "matchVersion": "4.8.0.179",
+      "region": "EUW",
+      "mapId": 1,
+      "season": "SEASON2014",
+      "queueType": "RANKED_TEAM_5x5",
+      "matchDuration": 1905,
+      "matchCreation": 1401137737208,
+      "matchType": "MATCHED_GAME",
+      "matchId": 1494422728,
+      "participants": [{
+         "stats": {
+            "unrealKills": 0,
+            "item2": 3191,
+            "item1": 3020,
+            "totalDamageTaken": 13787,
+            "item0": 1056,
+            "pentaKills": 0,
+            "sightWardsBoughtInGame": 0,
+            "winner": true,
+            "magicDamageDealt": 98131,
+            "wardsKilled": 0,
+            "largestCriticalStrike": 0,
+            "trueDamageDealt": 1142,
+            "doubleKills": 2,
+            "physicalDamageDealt": 17827,
+            "tripleKills": 0,
+            "deaths": 6,
+            "firstBloodAssist": false,
+            "magicDamageDealtToChampions": 27289,
+            "assists": 17,
+            "visionWardsBoughtInGame": 0,
+            "totalTimeCrowdControlDealt": 343,
+            "champLevel": 16,
+            "physicalDamageTaken": 11072,
+            "totalDamageDealt": 117101,
+            "largestKillingSpree": 3,
+            "inhibitorKills": 2,
+            "minionsKilled": 145,
+            "towerKills": 2,
+            "physicalDamageDealtToChampions": 1702,
+            "quadraKills": 0,
+            "goldSpent": 11535,
+            "totalDamageDealtToChampions": 30133,
+            "goldEarned": 13236,
+            "neutralMinionsKilledTeamJungle": 3,
+            "firstBloodKill": true,
+            "firstTowerKill": false,
+            "wardsPlaced": 5,
+            "trueDamageDealtToChampions": 1142,
+            "killingSprees": 3,
+            "firstInhibitorKill": true,
+            "totalScoreRank": 0,
+            "totalUnitsHealed": 1,
+            "kills": 11,
+            "firstInhibitorAssist": false,
+            "totalPlayerScore": 0,
+            "neutralMinionsKilledEnemyJungle": 2,
+            "magicDamageTaken": 2331,
+            "largestMultiKill": 2,
+            "totalHeal": 454,
+            "item4": 3174,
+            "item3": 3089,
+            "objectivePlayerScore": 0,
+            "item6": 3340,
+            "firstTowerAssist": true,
+            "item5": 3135,
+            "trueDamageTaken": 384,
+            "neutralMinionsKilled": 5,
+            "combatPlayerScore": 0
+         },
+         "timeline": {
+            "xpDiffPerMinDeltas": {
+               "zeroToTen": -105.19999999999999,
+               "tenToTwenty": 34.30000000000001,
+               "twentyToThirty": 56.900000000000034
+            },
+            "damageTakenDiffPerMinDeltas": {
+               "zeroToTen": -84.89999999999998,
+               "tenToTwenty": -295.5,
+               "twentyToThirty": -566.6
+            },
+            "xpPerMinDeltas": {
+               "zeroToTen": 383.8,
+               "tenToTwenty": 464.8,
+               "twentyToThirty": 501.1
+            },
+            "goldPerMinDeltas": {
+               "zeroToTen": 250.6,
+               "tenToTwenty": 395.29999999999995,
+               "twentyToThirty": 483.9
+            },
+            "role": "SOLO",
+            "creepsPerMinDeltas": {
+               "zeroToTen": 4.9,
+               "tenToTwenty": 5.800000000000001,
+               "twentyToThirty": 3.4
+            },
+            "csDiffPerMinDeltas": {
+               "zeroToTen": -1.5999999999999999,
+               "tenToTwenty": -0.19999999999999973,
+               "twentyToThirty": -3
+            },
+            "damageTakenPerMinDeltas": {
+               "zeroToTen": 375.7,
+               "tenToTwenty": 423.6,
+               "twentyToThirty": 376.79999999999995
+            },
+            "lane": "MIDDLE"
+         },
+         "spell2Id": 14,
+         "participantId": 0,
+         "championId": 99,
+         "teamId": 100,
+         "spell1Id": 4
+      }],
+      "matchMode": "CLASSIC",
+      "platformId": "EUW1",
+      "participantIdentities": [{
+         "player": {
+            "profileIcon": 542,
+            "matchHistoryUri": "/v1/stats/player_history/EUW1/83666",
+            "summonerName": "AllesKalrob",
+            "summonerId": 78347
+         },
+         "participantId": 0
+      }]
+   }

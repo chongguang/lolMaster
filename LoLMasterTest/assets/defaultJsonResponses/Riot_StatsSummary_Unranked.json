@@ -1,0 +1,136 @@
+{
+   "playerStatSummaries": [
+      {
+         "playerStatSummaryType": "AramUnranked5x5",
+         "aggregatedStats": {
+            "totalChampionKills": 40,
+            "totalAssists": 168,
+            "totalTurretsKilled": 3
+         },
+         "modifyDate": 1413489106000,
+         "wins": 2
+      },
+      {
+         "playerStatSummaryType": "Ascension",
+         "aggregatedStats": {},
+         "modifyDate": 1413489106000,
+         "wins": 1
+      },
+      {
+         "playerStatSummaryType": "CoopVsAI",
+         "aggregatedStats": {
+            "averageNodeCaptureAssist": 2,
+            "maxNodeNeutralizeAssist": 3,
+            "totalMinionKills": 3146,
+            "maxChampionsKilled": 1,
+            "totalChampionKills": 213,
+            "averageChampionsKilled": 1,
+            "averageNumDeaths": 2,
+            "maxNodeCapture": 10,
+            "maxObjectivePlayerScore": 1075,
+            "totalNeutralMinionsKilled": 334,
+            "maxAssists": 7,
+            "averageCombatPlayerScore": 72,
+            "maxNodeCaptureAssist": 2,
+            "averageObjectivePlayerScore": 1075,
+            "maxTeamObjective": 1,
+            "totalAssists": 240,
+            "averageNodeCapture": 10,
+            "averageTotalPlayerScore": 1147,
+            "averageTeamObjective": 1,
+            "averageNodeNeutralize": 7,
+            "maxNodeNeutralize": 7,
+            "averageNodeNeutralizeAssist": 3,
+            "averageAssists": 7,
+            "maxTotalPlayerScore": 1147,
+            "maxCombatPlayerScore": 72,
+            "totalTurretsKilled": 47,
+            "totalNodeNeutralize": 7,
+            "totalNodeCapture": 10
+         },
+         "modifyDate": 1409689280000,
+         "wins": 27
+      },
+      {
+         "playerStatSummaryType": "CoopVsAI3x3",
+         "aggregatedStats": {
+            "totalNeutralMinionsKilled": 10,
+            "totalMinionKills": 356,
+            "totalChampionKills": 17,
+            "totalAssists": 41,
+            "totalTurretsKilled": 2
+         },
+         "modifyDate": 1409752296000,
+         "wins": 3
+      },
+      {
+         "playerStatSummaryType": "Hexakill",
+         "aggregatedStats": {
+            "totalNeutralMinionsKilled": 15,
+            "totalMinionKills": 205,
+            "totalChampionKills": 32,
+            "totalAssists": 28,
+            "totalTurretsKilled": 2
+         },
+         "modifyDate": 1414286525000,
+         "wins": 0
+      },
+      {
+         "playerStatSummaryType": "OdinUnranked",
+         "aggregatedStats": {
+            "averageNodeCaptureAssist": 0,
+            "maxNodeNeutralizeAssist": 1,
+            "maxChampionsKilled": 1,
+            "totalChampionKills": 1,
+            "totalAssists": 3,
+            "averageChampionsKilled": 1,
+            "averageNodeCapture": 5,
+            "averageNumDeaths": 10,
+            "maxNodeNeutralize": 2,
+            "averageNodeNeutralize": 2,
+            "averageTeamObjective": 1,
+            "averageTotalPlayerScore": 718,
+            "maxNodeCapture": 5,
+            "maxObjectivePlayerScore": 606,
+            "averageNodeNeutralizeAssist": 1,
+            "averageAssists": 3,
+            "maxTotalPlayerScore": 718,
+            "maxAssists": 3,
+            "maxCombatPlayerScore": 112,
+            "averageCombatPlayerScore": 112,
+            "maxNodeCaptureAssist": 0,
+            "totalNodeCapture": 5,
+            "totalNodeNeutralize": 2,
+            "maxTeamObjective": 1,
+            "averageObjectivePlayerScore": 606
+         },
+         "modifyDate": 1391508213000,
+         "wins": 0
+      },
+      {
+         "playerStatSummaryType": "Unranked",
+         "aggregatedStats": {
+            "totalNeutralMinionsKilled": 563,
+            "totalMinionKills": 12207,
+            "totalChampionKills": 539,
+            "totalAssists": 730,
+            "totalTurretsKilled": 105
+         },
+         "modifyDate": 1413679629000,
+         "wins": 48
+      },
+      {
+         "playerStatSummaryType": "Unranked3x3",
+         "aggregatedStats": {
+            "totalNeutralMinionsKilled": 26,
+            "totalMinionKills": 640,
+            "totalChampionKills": 41,
+            "totalAssists": 32,
+            "totalTurretsKilled": 3
+         },
+         "modifyDate": 1414236379000,
+         "wins": 3
+      }
+   ],
+   "summonerId": 34547592
+}

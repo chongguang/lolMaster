@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="summoner_name_input" type="id"/>
+    <item name="summoner_name_analysis_input" type="id"/>
+</resources>

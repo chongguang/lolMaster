@@ -1,0 +1,7 @@
+{
+  "data": {
+    "error": "No Game for player 39407749 was found in the system!",
+    "ECODE": "GAMENOTFOUND_PATH",
+    "injected": "ERROR_RESPONSE_INJECTED"
+  }
+}
